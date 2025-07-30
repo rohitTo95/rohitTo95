@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Data+Science+%7C+Machine+Learning;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9966CC&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+AI+Enthusiast;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -24,9 +24,10 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** from West Bengal
 class RohitDutta:
     def __init__(self):
         self.location = "West Bengal, India"
-        self.current_focus = ["AI/ML", "Web Development", "Data Science"]
+        self.current_focus = ["AI/ML", "Web Development", "Data Science", "Cloud Computing"]
         self.learning = ["Advanced AI Algorithms", "Cloud Computing", "DevOps"]
-        self.hobbies = ["Anime", "Book Reading"]
+        self.technologies = ["React", "Node.js", "Python", "TypeScript", "AWS", "MongoDB"]
+        self.hobbies = ["Anime Watching", "Book Reading"]
     
     def say_hello(self):
         return "Thanks for visiting my profile! Let's build something amazing together!"
@@ -43,19 +44,37 @@ class RohitDutta:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛢️ Databases & Tools
+### ☁️ Cloud & Backend Services
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -63,45 +82,45 @@ class RohitDutta:
 
 <div align="center">
 
-### 🎵 Spring - AI-Powered Song Recommendation ChatBot
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/Spring-An-AI-Powerd-Song-Recommendation-ChatBot)
+### 📄 PDFLY - PDF Processing Tool
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/PDFLY)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-An intelligent chatbot that recommends songs based on user preferences using advanced AI algorithms. Features natural language processing and personalized recommendation engine.
+Advanced PDF processing application with features for merging, splitting, and manipulating PDF documents with an intuitive user interface.
 
 ---
 
-### 💳 Credit Card Behavior Analysis & Model Training
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/Credit-Card-Behaviour-Score-Data-Preparation-and-Model-Training)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-Comprehensive data science project involving credit card behavior analysis, feature engineering, and machine learning model development for risk assessment.
-
----
-
-### 🎓 Eduford - Educational Institution Website
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/Eduford.github.io)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=githubpages&logoColor=white)](https://rohitto95.github.io/Eduford.github.io/)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-A responsive and modern educational institution website showcasing clean design principles and optimal user experience.
-
----
-
-### 🧮 Interactive Calculator
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/basic-calculator)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 💰 Elegant Budget Tracker
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/elegant-budget-tracker)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-A sleek, responsive calculator built with vanilla JavaScript, featuring modern UI design and smooth animations.
+A sophisticated personal finance management application featuring expense tracking, budget planning, and financial analytics with a modern, elegant design.
 
 ---
 
-### 📝 CodeMega Blog Platform
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/codemega-blog)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 📥 DLX Media Downloader
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/DLX--Media-Downloder)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-A dynamic blog platform for tech enthusiasts, featuring rich content management and interactive user interface.
+Multi-platform media downloader supporting various formats and platforms, built with a focus on user experience and download optimization.
+
+---
+
+### 🔗 API Hub
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/apihub)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+Centralized API management platform providing a unified interface for multiple APIs with comprehensive documentation and testing capabilities.
+
+---
+
+### ✏️ Tiptap Editor - Open Source Contribution
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/rohitTo95/tiptap-editor)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-FF6B6B?style=flat-square&logo=opensource&logoColor=white)
+
+Contributing to the popular Tiptap rich-text editor ecosystem, enhancing functionality and user experience for the developer community.
+
 
 </div>
 
@@ -147,6 +166,7 @@ A dynamic blog platform for tech enthusiasts, featuring rich content management 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dutta-b94691243/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitTo95)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitdutta.dev@gmail.com)
 
 </div>
 
