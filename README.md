@@ -26,7 +26,7 @@ class RohitDutta:
         self.location = "West Bengal, India"
         self.current_focus = ["AI/ML", "Web Development", "Data Science"]
         self.learning = ["Advanced AI Algorithms", "Cloud Computing", "DevOps"]
-        self.hobbies = ["Problem Solving", "Open Source", "Tech Innovation"]
+        self.hobbies = ["Anime", "Book Reading"]
     
     def say_hello(self):
         return "Thanks for visiting my profile! Let's build something amazing together!"
@@ -43,10 +43,7 @@ class RohitDutta:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Web Development
@@ -150,7 +147,6 @@ A dynamic blog platform for tech enthusiasts, featuring rich content management 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-dutta-b94691243/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitTo95)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitdutta.dev@gmail.com)
 
 </div>
 
